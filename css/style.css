@@ -28,7 +28,7 @@ nav img {
   width: 150px;
 }
 
-.nav-links {
+/* .nav-links {
   flex-wrap: 1;
   text-align: right;
 }
@@ -58,7 +58,7 @@ nav img {
 
 .nav-links ul li:hover::after {
   width: 100%;
-}
+} */
 
 .text-box {
   width: 90%;
@@ -113,7 +113,7 @@ nav .fa {
     font-family: Phenomena;
   }
 
-  .nav-links ul li {
+  /* .nav-links ul li {
     display: block;
   }
 
@@ -139,7 +139,7 @@ nav .fa {
 
   .nav-links ul {
     padding: 30px;
-  }
+  } */
 
 }
 
