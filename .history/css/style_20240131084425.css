@@ -112,18 +112,13 @@ nav .fa {
 }
 
 /* Deskripsi */
-.deskripsi {
-  width: 80%;
-  margin: auto;
-  text-align: center;
-  padding-top: 30px;
-}
 .row {
   padding-top: 20px;
 }
 
 h1 {
   font-family: Phenomena;
+  
   color: #20c997;
   font-weight: 600;
   font-size: 70px;
@@ -131,7 +126,7 @@ h1 {
 
 .col p {
   font-weight: 400;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 /* Responsive Deskripsi */
@@ -421,7 +416,7 @@ a.social {
   width: 100%;
   position: relative;
   background: #333;
-  margin: 0 10px 0 0;
+  margin: 0 10px 10px 0;
   padding: 10px 0;
   color: rgba(255, 255, 255, 1);
   text-align: center;
